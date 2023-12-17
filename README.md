@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @qpdbcoocdbqp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+我是機械學習工程師，專注於深度學習和自然語言處理。
 
-<!---
-qpdbcoocdbqp/qpdbcoocdbqp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+在我的職業生涯中，參與了自然語言處理（NLP）和即時競標(Real-time bidding)的專案。
+
+我熟練掌握常見的機器學習框架 TensorFlow 和 PyTorch，並具有撰寫高效、可維護代碼的能力。
+
+我的目標是不斷學習和創新，追求在機械學習領域的卓越成就。我期待能夠在未來的項目中，與志同道合的團隊攜手合作，共同挑戰更具挑戰性的問題，推動機械學習技術的發展。
